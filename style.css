@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: grid;
+    place-items: center;
+    height: 100dvh;
+  }
+  
+  #grass {
+    display: block;
+    margin: 0 auto;
+    background-color: lightblue;
+    image-rendering: pixelated;
+  }
